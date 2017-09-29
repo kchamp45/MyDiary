@@ -1,0 +1,12 @@
+FV = future value;
+P = initial principle
+i = interest rate;
+r = (i)/100;
+n = number of investment years;
+A = additional contribution amount;
+F = frequency of contribution;
+
+function accountBalance {
+  FV = P* Math.pow((1 + r), n) + (A*F)(Math.pow(1+r), n-1);
+  return FV;
+}
