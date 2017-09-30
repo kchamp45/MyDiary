@@ -7,7 +7,8 @@
 [Github repository](https://github.com/kchamp45/myDiary)
 
 Here is a summary of what I have been doing for the last 8 hours today.
-1. Practice possible interview coding questions.  
+1. Practice possible interview coding questions.
+ ![app-screenshot](https://github.com/kchamp45/MyDiary/blob/master/images/Questions.png?raw=true)
 2. A ton of research in preparation for a financial website I would like to create.  
   ### User stories:
     * I want to know the average salary of my chosen profession (e.g. jr. software developer).
@@ -19,11 +20,29 @@ Here is a summary of what I have been doing for the last 8 hours today.
       * I want to know the company administering this investment's website, contact info, and ratings.
     * I want to know how much money I will have at the end of a chosen number of years given my initial amount of investment, rate of return, and amount I will add to the account plus the frequency with which I will contribute.  
     * I want to know about other possible financial options (e.g. 401K, Roth IRA, Real Estate(e.g. house-flipping, rental or just REIT) available to me to take advantage of the number of years I have to invest and my current income bracket (because some investment advantages go away if I make too much money--says Uncle Sam).
+### Salary:
+![app-screenshot](https://github.com/kchamp45/MyDiary/blob/master/images/Salary.png?raw=true)
+
+### Salary in Portland:
+![app-screenshot](https://github.com/kchamp45/MyDiary/blob/master/images/Portland%20Salary.png?raw=true)
+
+### Tax Table:
+![app-screenshot](https://github.com/kchamp45/MyDiary/blob/master/images/Fed%20Tax%20Rate.png?raw=true)
+
+### API:
+![app-screenshot](https://github.com/kchamp45/MyDiary/blob/master/images/API.png?raw=true)
+
+### Investments:
+![app-screenshot](https://github.com/kchamp45/MyDiary/blob/master/images/Funds.png?raw=true)
+
+### Calculator:
+![app-screenshot](https://github.com/kchamp45/MyDiary/blob/master/images/Calculator.png?raw=true)
+
+### Math notes:
+![app-screenshot](https://github.com/kchamp45/MyDiary/blob/master/images/MathNotes.JPG?raw=true)
 
   ### Strategies to satisfy user stories:
   I hope to get data via API calls as well as create my own database either with SQL or Firebase.  Being a math junkie, I am determined to create the right mathematical formula to calculate the account value after x number of years of investment.   
-
-![app-screenshot](https://github.com/kchamp45/zoo-animal-tracker/blob/master/resources/images/Screen%20Shot%202017-09-22%20at%201.40.52%20PM.png)
 
 ## Setup/Installation Requirements
 
