@@ -45,14 +45,14 @@ Here is a summary of what I have been doing for the last 8 hours today.
   I hope to get data via API calls as well as create my own database either with SQL or Firebase.  Being a math junkie, I am determined to create the right mathematical formula to calculate the account value after x number of years of investment.   
 
 ## Setup/Installation Requirements
-
+For this repo, just open the github and enjoy the ReadMe.  
 To use my future application, you will need to do the following.  In the terminal, please navigate to your desktop and execute:
   * `$ git clone https://github.com/kchamp45/future-project-name`
   * `$ npm install`
   * `$ bower install`
   * `$ gulp build`
   * `$ gulp serve`
-For this application, just open the github and enjoy the ReadMe.  
+
 
 ## Known Bugs
 
